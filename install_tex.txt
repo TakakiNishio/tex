@@ -1,0 +1,28 @@
+access
+https://github.com/AriYu/my_ubuntu_setup/blob/master/tex_install/tex_install.sh
+
+cd Download
+
+wget http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz
+
+mkdir tex_install_script && tar xf install-tl-unx.tar.gz -C tex_install_script --strip-components 1
+
+cd tex_install_script
+
+sudo./install-tl
+
+=====================wait a while (maybe 24h)==============================
+...
+
+=====================       add a path       ==============================
+
+sudo mktexlsr
+
+sudo kanji-config-updmap-sys ipaex
+Setting up ... ptex-ipaex.map
+
+emacs ~/.latexmkrc
+
+cd ..
+
+
