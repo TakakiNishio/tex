@@ -25,4 +25,7 @@ emacs ~/.latexmkrc
 
 cd ..
 
-
+--------------------------------------------------------------------------
+usage:
+access
+https://github.com/AriYu/yatex-commands

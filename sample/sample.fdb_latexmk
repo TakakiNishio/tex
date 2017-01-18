@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1473075123 "sample.dvi" "sample.pdf" "sample" 1473075123
-  "sample.dvi" 1473075123 4144 8973f71dc98107a5fe2ea3a5bdd751da "latex"
+["dvipdf"] 1484757809 "sample.dvi" "sample.pdf" "sample" 1484757809
+  "sample.dvi" 1484757809 4220 7b534ac37c954855d51a77e4109752af "latex"
   (generated)
   "sample.pdf"
-["latex"] 1473075122 "sample.tex" "sample.dvi" "sample" 1473075123
+["latex"] 1484757809 "sample.tex" "sample.dvi" "sample" 1484757809
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
@@ -28,9 +28,9 @@
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1470266149 31958 926ad82bc47ee89401cf24be7d2cbf7d ""
   "/usr/local/texlive/2016/texmf-var/web2c/eptex/platex.fmt" 1472655848 4061217 a0855a5a101fcd637028a7ae00ca4315 ""
   "/usr/local/texlive/2016/texmf.cnf" 1472655823 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "sample.aux" 1473075123 354 52a5cbe7df861316297a1c4020afe825 ""
-  "sample.tex" 1472713907 2135 60f5271696c5efc7cf7fbaf94dde003d ""
+  "sample.aux" 1484757809 354 52a5cbe7df861316297a1c4020afe825 ""
+  "sample.tex" 1484757806 2153 cb0266dad8777c763ab8bae03a656477 ""
   (generated)
-  "sample.aux"
-  "sample.dvi"
   "sample.log"
+  "sample.dvi"
+  "sample.aux"
