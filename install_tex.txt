@@ -1,7 +1,7 @@
 access
 https://github.com/AriYu/my_ubuntu_setup/blob/master/tex_install/tex_install.sh
 
-$ cd Download
+$ cd Downloads
 
 $ wget http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz
 
@@ -9,7 +9,7 @@ $ mkdir tex_install_script && tar xf install-tl-unx.tar.gz -C tex_install_script
 
 $ cd tex_install_script
 
-$ sudo./install-tl
+$ sudo ./install-tl
 
 =====================wait a while (maybe 24h)==============================
 ...
