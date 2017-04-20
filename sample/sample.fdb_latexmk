@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1484757809 "sample.dvi" "sample.pdf" "sample" 1484757809
+["dvipdf"] 1484757809 "sample.dvi" "sample.pdf" "sample" 1485442511
   "sample.dvi" 1484757809 4220 7b534ac37c954855d51a77e4109752af "latex"
   (generated)
   "sample.pdf"
-["latex"] 1484757809 "sample.tex" "sample.dvi" "sample" 1484757809
+["latex"] 1484757809 "sample.tex" "sample.dvi" "sample" 1485442511
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
@@ -31,6 +31,6 @@
   "sample.aux" 1484757809 354 52a5cbe7df861316297a1c4020afe825 ""
   "sample.tex" 1484757806 2153 cb0266dad8777c763ab8bae03a656477 ""
   (generated)
-  "sample.log"
   "sample.dvi"
+  "sample.log"
   "sample.aux"
